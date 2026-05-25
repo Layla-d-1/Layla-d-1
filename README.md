@@ -23,7 +23,7 @@ I'm a software engineering student with a strong foundation in Java and web deve
 
 **Frameworks:** Bootsrap, Django, Node.js/Express.js, Pug
 
-**Tools & Platforms:** Git, GitHub, VS Code, Maven
+**Tools & Platforms:** Git, GitHub, VS Code, Excel
 
 ## ⊹₊˚ Projects
 
