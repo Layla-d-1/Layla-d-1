@@ -1,4 +1,4 @@
-#Hello! ⋆˚꩜｡⊹
+# Hello! ⋆˚꩜｡⊹
 
 Welcome to my GitHub profile! 
 I'm a software engineering student passionate about building web applications and exploring the intersection of code and hardware.
