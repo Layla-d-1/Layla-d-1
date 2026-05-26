@@ -44,10 +44,6 @@ As a software engineering student, I'm actively working on:
 - ₊˚‧︵‿ Electronics and circuit design
 - ₊˚‧︵‿ Reading (tech books, science fiction, and more)
 
-## ⋆‧°𓏲ּ𝄢 GitHub Stats
-
-GitHub stats](https://github-readme-stats.vercel.app/api?username=Layla-d-1&show_icons=true&theme=radical)
-
 ## ⋆˚꩜｡⊹ Connect With Me
 
 I'm always eager to:
