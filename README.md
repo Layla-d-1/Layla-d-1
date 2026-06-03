@@ -1,11 +1,12 @@
 # Hello! ⋆˚꩜｡⊹
 
-Welcome to my GitHub profile! 
-I'm a software engineering student passionate about building web applications, embedded systems, robotics and Machine Learning
+Welcome to my GitHub profile.
+I'm a software engineering student exploring multiple different specialties, including but not limited to:
+- building web applications
+-embedded systems
+-robotics
+-Machine Learning
 
-## ⋆‧°𓏲ּ About Me
-
-I'm a software engineering student with a strong foundation in Java and web development. I'm driven by curiosity and love tackling real-world problems through code. Beyond the screen, I'm fascinated by electronics, robotics, and always have a good book nearby.
 
 ## 𝄢⋆˚꩜｡ What I Do
 
@@ -13,7 +14,7 @@ I'm a software engineering student with a strong foundation in Java and web deve
 - ₊˚‧︵‿ Build robust backend solutions using Java
 - ₊˚‧︵‿ Explore robotics and electronics projects
 - ₊˚‧︵‿ Continuously learn and grow as an engineer
-- ₊˚‧︵‿ Collaborate with fellow ngineers and students
+- ₊˚‧︵‿ Collaborate with fellow engineers and students
 
 ## ୨ᰔ୧ Technical Skills
 
