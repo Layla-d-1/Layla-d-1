@@ -3,23 +3,21 @@
 ## "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it." - Sir Henry Royce ⋆˚꩜｡⊹
 
 Welcome to my GitHub profile.                                      
-I'm a software engineering student exploring multiple different specialties, including but not limited to:
-- building web applications
--embedded systems
--robotics
--Machine Learning
-
+I'm a software engineering student constantly exploring the cyber world, interests include but are not limited to:
+- Embedded Systems
+- Robotics
+- Web development
+- Software Engineering
 
 ## 𝄢⋆˚꩜｡ What I Do
 
-- ₊˚‧︵‿ Develop web applications with modern technologies
-- ₊˚‧︵‿ Build robust backend solutions using Java
-- ₊˚‧︵‿ Explore robotics and electronics projects
+- ₊˚‧︵‿ Develop web applications with modern technologies & frameworks
+- ₊˚‧︵‿ Build robust backend solutions using Java/python
+- ₊˚‧︵‿ Explore & build robotics and electronics projects
 - ₊˚‧︵‿ Continuously learn and grow as an engineer
 - ₊˚‧︵‿ Collaborate with fellow engineers and students
 
 ## ୨ᰔ୧ Technical Skills
-
 **Languages:** Java, JavaScript, HTML, CSS, C, Python
 
 **Web Development:** Frontend development, Backend development, REST APIs, Database design
@@ -30,16 +28,8 @@ I'm a software engineering student exploring multiple different specialties, inc
 
 ## ⊹₊˚ Projects
 
-Check out my repositories to see what I'm working on!
+Check out my repositories to see what I'm working on! 
 I'm constantly building new projects and experimenting with different technologies.
-
-## °𓏲ּ Learning Journey
-
-As a software engineering student, I'm actively working on:
-- Mastering object-oriented programming principles
-- Building full-stack web applications
-- Understanding software architecture and design patterns
-- Exploring emerging technologies
 
 ## ˚꩜｡⊹ Interests Beyond Code
 
@@ -54,9 +44,7 @@ I'm always eager to:
 - Collaborate on projects
 - Share knowledge and learn from others
 - Explore how technology can solve real-world problems
-
-Feel free to explore my repositories, and reach out if needed.
-
+  
 ---
 
 "Until death, all defeats are psychological."
