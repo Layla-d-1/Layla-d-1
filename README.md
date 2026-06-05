@@ -1,6 +1,8 @@
-# Hello! ⋆˚꩜｡⊹
+<img width="512" height="204" alt="git header" src="https://github.com/user-attachments/assets/b088363e-2206-400d-ae1b-b3c2656ff478" />
 
-Welcome to my GitHub profile.
+## "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it." - Sir Henry Royce ⋆˚꩜｡⊹
+
+Welcome to my GitHub profile.                                      
 I'm a software engineering student exploring multiple different specialties, including but not limited to:
 - building web applications
 -embedded systems
