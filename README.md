@@ -18,7 +18,7 @@ I'm a software engineering student constantly exploring the cyber world, interes
 - ₊˚‧︵‿ Collaborate with fellow engineers and students
 
 ## ୨ᰔ୧ Technical Skills
-**Languages:** Java, JavaScript, HTML, CSS, C, Python
+**Languages:** Java, JavaScript, HTML, CSS, C/C++, Python
 
 **Web Development:** Frontend development, Backend development, REST APIs, Database design
 
