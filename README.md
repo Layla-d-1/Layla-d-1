@@ -24,7 +24,7 @@ I'm a software engineering student constantly exploring the cyber world, interes
 
 **Frameworks:** Bootsrap, Django, Node.js/Express.js, Pug
 
-**Tools & Platforms:** Git, GitHub, VS Code, Excel, linux
+**Tools & Platforms:** Git, GitHub, VS Code, Excel, linux, Arduino
 
 ## ⊹₊˚ Projects
 
